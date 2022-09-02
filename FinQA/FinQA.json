@@ -1,0 +1,94 @@
+[
+    {
+        "id": "BLK/2016/page_75.pdf-2",
+        "domain_knowledge": "net income is the income after taxes."
+    },
+    {
+        "id": "JPM/2009/page_132.pdf-2",
+        "domain_knowledge": "basis point is the smallest unit of measure of change in the interest rate on a bond or promissory note, one basis point equals 0.01%, or one percent of 1%. The basis point is often abbreviated as 'BP'. "
+    },
+    {
+        "id": "VTR/2006/page_88.pdf-4",
+        "domain_knowledge": "growth rate is the change from period to period divided by the original amount."
+    },
+    {
+        "id": "GPN/2018/page_74.pdf-3",
+        "domain_knowledge": "tangible assets do not include goodwill , nontangible assets , and trademark."
+    },
+    {
+        "id": "CE/2005/page_56.pdf-1",
+        "domain_knowledge": "to get the quarterly divend you should divide annual by 4."
+    },
+    {
+        "id": "MAA/2018/page_88.pdf-2",
+        "domain_knowledge": "highest means the maximum value for a certain period."
+    },
+    {
+        "id": "MRO/2008/page_119.pdf-3",
+        "domain_knowledge": "working capital = current assets - current liabilities"
+    },
+    {
+        "id": "HWM/2016/page_95.pdf-2",
+        "domain_knowledge": "carry amount = original value of asset - depreciation/amortization value"
+    },
+    {
+        "id": "GRMN/2008/page_98.pdf-2",
+        "domain_knowledge": "future value = present value × exp((1 + interest rate), period)"
+    },
+    {
+        "id": "MRO/2008/page_119.pdf-1",
+        "domain_knowledge": "current ratio = current assets / current liabilities"
+    },
+    {
+        "id": "AWK/2017/page_172.pdf-2",
+        "domain_knowledge": "the average is the sum of the periods divided by the count."
+    },
+    {
+        "id": "CCI/2003/page_21.pdf-1",
+        "domain_knowledge": "the operating expense ratio is the operating expense divided by the revenue."
+    },
+    {
+        "id": "VTR/2003/page_39.pdf-4",
+        "domain_knowledge": "a debt-to-assets ratio is a type of leverage ratio that compares a company's debt obligations (both short-term debt and long-term debt) to the company's total assets. It is calculated using the following formula: Debt-to-Assets Ratio = Total Debt / Total Assets."
+    },
+    {
+        "id": "RSG/2018/page_139.pdf-2",
+        "domain_knowledge": "the percentage change is the difference between the 2 periods divide by the earliest period."
+    },
+    {
+        "id": "CMCSA/2015/page_62.pdf-1",
+        "domain_knowledge": "the operating margin measures how much profit a company makes on a dollar of sales after paying for variable costs of production, such as wages and raw materials, but before paying interest or tax. It is calculated by dividing a company's operating income by its net sales."
+    },
+    {
+        "id": "AAL/2014/page_18.pdf-1",
+        "domain_knowledge": "the total expense can be obtained by dividing the part expense by the proportion of the part in the overall."
+    },
+    {
+        "id": "EXR/2005/page_46.pdf-2",
+        "domain_knowledge": "dividend yield is the financial ratio that measures the quantum of cash dividends paid out to shareholders relative to the market value per share. It is computed by dividing the dividend per share by the market price per share and multiplying the result by 100."
+    },
+    {
+        "id": "UNP/2011/page_76.pdf-2",
+        "domain_knowledge": "dividends to shareholders , interest to bondholders."
+    },
+    {
+        "id": "HII/2017/page_47.pdf-1",
+        "domain_knowledge": "return on assets formula: net income / total assets"
+    },
+    {
+        "id": "RSG/2017/page_138.pdf-1",
+        "domain_knowledge": "Debt to Equity Ratio = Total Debt / Shareholders' Equity"
+    },
+    {
+        "id": "VTR/2007/page_47.pdf-4",
+        "domain_knowledge": "the value of the treasury stock is the amount of shares bought back at the given price."
+    },
+    {
+        "id": "AAL/2015/page_118.pdf-1",
+        "domain_knowledge": "the net profit margin formula: net income / revenues"
+    },
+    {
+        "id": "VTR/2007/page_47.pdf-2",
+        "domain_knowledge": "outstanding common stock formula: total shares issued to date - the share purchased"
+    }
+]
